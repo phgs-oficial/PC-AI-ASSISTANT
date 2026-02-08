@@ -43,7 +43,6 @@ Take full control of your AI's personality and appearance through our intuitive 
 * **Smart Automation:** Create custom workflows via voice commands.
 * **Privacy Centric:** Control when the assistant listens and use offline features.
 
-![FOX Banner](https://raw.githubusercontent.com/phgs-oficial/PC-AI-ASSISTANT/refs/heads/main/image.png)
 
 ---
 
